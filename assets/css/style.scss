@@ -4,6 +4,6 @@
 @import "{{ site.theme }}";
 .page-header{
     background-image: url(../../images/sunset-header.jpg);
-    background-position: center center;
+    /*background-position: center center;*/
     background-size: cover;
 }
